@@ -1,0 +1,8 @@
+[packages]
+eth-account = "*"
+web3 = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.9"
